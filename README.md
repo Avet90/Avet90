@@ -28,7 +28,7 @@
 
 #### Статистика:
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Avet90o&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Avet90&show_icons=true)
 
 ---
 
