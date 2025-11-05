@@ -13,7 +13,7 @@
 
 #### Мои контакты:
 
-- 📧 Mail: avetsarkisian@gmail.com
+- 📧 Mail: avsar260390@gmail.com
 - 🌐 Telegram: [Avet_R_S](https://t.me/Avet_R_S)
 
 ---
